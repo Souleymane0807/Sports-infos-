@@ -1,0 +1,6 @@
+{
+  "name": "Sport 225",
+  "description": "Application d'actualités sportives ivoirienne et internationale. CAN, Ligue des Champions, Actu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
